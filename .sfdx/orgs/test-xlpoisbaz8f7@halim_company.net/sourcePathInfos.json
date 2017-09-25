@@ -34,10 +34,10 @@
         {
             "sourcePath": "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default",
             "isDirectory": true,
-            "size": 306,
-            "modifiedTime": 1506027095000,
-            "changeTime": 1506027095000,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
+            "size": 340,
+            "modifiedTime": 1506244747000,
+            "changeTime": 1506244747000,
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -45,15 +45,15 @@
     [
         "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 170,
-            "modifiedTime": 1506027476000,
-            "changeTime": 1506027476000,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 238,
+            "modifiedTime": 1506245143000,
+            "changeTime": 1506245143000,
+            "isWorkspace": false,
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
         }
     ],
     [
@@ -868,10 +868,10 @@
         {
             "sourcePath": "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "size": 182,
-            "modifiedTime": 1506027848000,
-            "changeTime": 1506027848000,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784",
+            "size": 203,
+            "modifiedTime": 1506244994000,
+            "changeTime": 1506244994000,
+            "contentHash": "71db7df3c1e2c6b994fdfc658e76b620bd029a81",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1061,14 +1061,14 @@
     [
         "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
-            "size": 341,
-            "modifiedTime": 1506027586000,
-            "changeTime": 1506027586000,
-            "contentHash": "54fba69395bda7b5f07d7683a0e698a0749fecfb",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 546,
+            "modifiedTime": 1506245608000,
+            "changeTime": 1506245608000,
+            "contentHash": "33d83f1ff5fb3f49b85afdd201ac42179df2ff3a"
         }
     ],
     [
@@ -1087,27 +1087,27 @@
     [
         "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
         {
-            "state": "u",
             "sourcePath": "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 111,
             "modifiedTime": 1506028397000,
             "changeTime": 1506028397000,
-            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
-            "size": 255,
-            "modifiedTime": 1506027654000,
-            "changeTime": 1506027654000,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 399,
+            "modifiedTime": 1506245715000,
+            "changeTime": 1506245715000,
+            "contentHash": "00567d68251f65cf3c3bc03a5fc67c27aceec986"
         }
     ],
     [
@@ -1212,6 +1212,175 @@
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
             "state": "u"
+        }
+    ],
+    [
+        "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+        {
+            "sourcePath": "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1506244747000,
+            "changeTime": 1506244747000,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/staticresources/leaflet.resource",
+        {
+            "sourcePath": "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/staticresources/leaflet.resource",
+            "isDirectory": false,
+            "size": 374488,
+            "modifiedTime": 1506244747000,
+            "changeTime": 1506244747000,
+            "contentHash": "9acfd85fa1b2ef044659924459bc2c4ec9fb3dc0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1506244747000,
+            "changeTime": 1506244747000,
+            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountMap",
+        {
+            "sourcePath": "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountMap",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1506244685000,
+            "changeTime": 1506244685000,
+            "contentHash": "a5a66581a4cb3394b3727c3a6a9ae0440bec88e4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 339,
+            "modifiedTime": 1506245835000,
+            "changeTime": 1506245835000,
+            "contentHash": "4ca340ef1b02b3925fc2e23e8d44ca8b4b44bd0f"
+        }
+    ],
+    [
+        "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1506244685000,
+            "changeTime": 1506244685000,
+            "contentHash": "7a615400a46f36b7d0acfc6610df3c489c605403",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+        {
+            "sourcePath": "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1506244952000,
+            "changeTime": 1506244952000,
+            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 797,
+            "modifiedTime": 1506245980000,
+            "changeTime": 1506245980000,
+            "contentHash": "6da6d637d46abc6f782408b9da718702ca9f3dd9"
+        }
+    ],
+    [
+        "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+        {
+            "sourcePath": "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1506244685000,
+            "changeTime": 1506244685000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+        {
+            "sourcePath": "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1506244685000,
+            "changeTime": 1506244685000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountsLoaded",
+        {
+            "state": "u",
+            "sourcePath": "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1506245143000,
+            "changeTime": 1506245143000,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
+        }
+    ],
+    [
+        "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 100,
+            "modifiedTime": 1506245216000,
+            "changeTime": 1506245216000,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
+        }
+    ],
+    [
+        "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/halim/Documents/SFDX_Projects/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1506245143000,
+            "changeTime": 1506245143000,
+            "contentHash": "edcfc45ce61428d47ff72a17793d818d9b9db151"
         }
     ]
 ]
