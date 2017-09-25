@@ -5,7 +5,7 @@
                 "type": "Account",
                 "referenceId": "AccountRef1"
             },
-            "Name": "Hyatt test",
+            "Name": "Hyatt",
             "Location__Latitude__s": 37.794157,
             "Location__Longitude__s": -122.396311
         },
